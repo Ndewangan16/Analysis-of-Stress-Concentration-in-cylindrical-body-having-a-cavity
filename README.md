@@ -1,0 +1,1 @@
+# Analysis-of-Stress-Concentration-in-cylindrical-body-having-a-cavity
